@@ -1,3 +1,5 @@
+import { comments } from "@/libs/comments";
+import { Reply } from "./Reply";
 export const Comment = ({
   userImagePath,
   username,
