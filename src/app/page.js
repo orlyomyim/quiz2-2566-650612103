@@ -15,7 +15,7 @@ export default function HomePage() {
         <div className="vstack gap-3">
           <div className="d-flex align-items-center gap-3">
             <img
-              src="/profileImages/handsome.jpg"
+              src="/profileImages/692292.webp"
               width="48"
               height="48"
               className="rounded-circle"
@@ -84,3 +84,4 @@ export default function HomePage() {
     </div>
   );
 }
+
